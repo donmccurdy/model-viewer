@@ -1,0 +1,5 @@
+commit 46d5c203b2d9a4b473866f7d0a51c8c4371b6682
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Aug 20 11:09:41 2021 -0700
+
+    update DRACO decoder to v1.4.1 (#2705)
